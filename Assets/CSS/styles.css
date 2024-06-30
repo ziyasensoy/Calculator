@@ -16,13 +16,6 @@ body {
     color: white;
 }
 
-.header h2 {
-    display: grid;
-    justify-content: center;
-    color: white;
-    margin-bottom: -50px;
-}
-
 .calculator-grid {
     display: grid;
     justify-content: center;
